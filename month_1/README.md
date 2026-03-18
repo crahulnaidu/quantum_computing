@@ -1,8 +1,3 @@
-git push
-fatal: The current branch main has no upstream branch.
-To push the current branch and set the remote as upstream, use
+# Month 1 — Foundations
 
-    git push --set-upstream origin main
-
-To have this happen automatically for branches without a tracking
-upstream, see 'push.autoSetupRemote' in 'git help config'.
+This folder contains my notes and experiments for quantum computing fundamentals.
