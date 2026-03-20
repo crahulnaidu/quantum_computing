@@ -6,3 +6,4 @@ with a focus on algorithms, Qiskit, and real hardware.
 ## Month 1
 - Day 1: Qubits and superposition.
 - Day 2:Measurements and Bloch Sphere.
+- Day 3:Quantum gates and Bloch Sphere rotations.
