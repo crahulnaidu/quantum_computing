@@ -7,3 +7,5 @@ with a focus on algorithms, Qiskit, and real hardware.
 - Day 1: Qubits and superposition.
 - Day 2:Measurements and Bloch Sphere.
 - Day 3:Quantum gates and Bloch Sphere rotations.
+- Day 4:Multiple qubits and entangled gates.
+
