@@ -10,3 +10,4 @@ with a focus on algorithms, Qiskit, and real hardware.
 - Day 4:Multiple qubits and entangled gates.
 - Day 5:Multi qubit measurements.
 - Day 6:Quantum Interference.
+- Day 7:Review of all the concepts for the week.
