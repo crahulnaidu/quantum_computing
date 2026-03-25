@@ -11,3 +11,4 @@ with a focus on algorithms, Qiskit, and real hardware.
 - Day 5:Multi qubit measurements.
 - Day 6:Quantum Interference.
 - Day 7:Review of all the concepts for the week.
+- Day 8:Phase kickback.
