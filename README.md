@@ -12,3 +12,4 @@ with a focus on algorithms, Qiskit, and real hardware.
 - Day 6:Quantum Interference.
 - Day 7:Review of all the concepts for the week.
 - Day 8:Phase kickback.
+- Day 9:Oracle(Black box).
