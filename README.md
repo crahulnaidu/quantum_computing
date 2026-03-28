@@ -13,3 +13,4 @@ with a focus on algorithms, Qiskit, and real hardware.
 - Day 7:Review of all the concepts for the week.
 - Day 8:Phase kickback.
 - Day 9:Oracle(Black box).
+- Day 10:Grover's algorithm.
