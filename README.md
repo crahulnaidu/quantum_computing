@@ -15,3 +15,4 @@ with a focus on algorithms, Qiskit, and real hardware.
 - Day 9:Oracle(Black box).
 - Day 10:Grover's algorithm.
 - Day 11:Deustch Jozsa algorithm.
+- Day 12:Simons's algorithm.
