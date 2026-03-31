@@ -16,3 +16,4 @@ with a focus on algorithms, Qiskit, and real hardware.
 - Day 10:Grover's algorithm.
 - Day 11:Deustch Jozsa algorithm.
 - Day 12:Simons's algorithm.
+- Day 13:Quantum Fourier Transform.
