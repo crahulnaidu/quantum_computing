@@ -19,3 +19,4 @@ with a focus on algorithms, Qiskit, and real hardware.
 - Day 13:Quantum Fourier Transform.
 - Day 14:Multi-Algorithm Quantum Analyer-Grover,Deutsch-jozsa,Simon.
 - Day 15:Phase estimation.
+- Day 16:Shor's algorithm.
