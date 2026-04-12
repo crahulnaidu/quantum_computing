@@ -22,4 +22,15 @@ with a focus on algorithms, Qiskit, and real hardware.
 - Day 16:Shor's algorithm.
 - Day 17:Running grover's algorithm on real quantum hardward and observing
 the effects of noise(decoherence).
+- Day 18:Major project -Running Grover's,simon and Deutsch-jozsa algorithm 
+on simulator and real quantum hardware and comparin their results.
+
+
+## Month 2
+- Day 1:Variational Quantum Algorithms (VQA) + Hybrid Quantum-Classical 
+Computing.
+
+
+
+
 
