@@ -29,7 +29,7 @@ on simulator and real quantum hardware and comparin their results.
 ## Month 2
 - Day 1:Variational Quantum Algorithms (VQA) + Hybrid Quantum-Classical 
 Computing.
-
+- Day 2:Variational Quantum Eigensolver.
 
 
 
